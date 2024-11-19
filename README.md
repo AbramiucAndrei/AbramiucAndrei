@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Andrei Abramiuc**!  
 
-Welcome to my GitHub profile! I'm an aspiring **Software Engineer Student** passionate about solving complex problems through code.  
+Welcome to my GitHub profile! I'm an aspiring **Computer Science Student** passionate about solving complex problems through code.  
 Currently, I'm on a journey to grow my expertise in **software development**, **data structures**, and **algorithms**.  
 
 ---
