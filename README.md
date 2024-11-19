@@ -17,25 +17,25 @@ Currently, I'm on a journey to grow my expertise in **software development**, **
 ## 📂 **My Featured Projects**
 
 
-### 💊 [Drugstore Medication Management](https://github.com/AbramiucAndrei/medication-management)
+### 💊 [Drugstore Medication Management](https://github.com/AbramiucAndrei/Pharmacy_Inventory_OOP_CPP_Qt)
 > **Tech Stack**: C++, Qt  
 A desktop app designed for managing medication inventory using design patterns, like **Observer**.  
 
 ---
 
-### 🏠 [Apartment Renting App](https://github.com/AbramiucAndrei/renting-app)
+### 🏠 [Apartment Renting App](https://github.com/AbramiucAndrei/Real_Estate_App_FutureUp_Project)
 > **Tech Stack**: Flutter, Dart  
 An intuitive app for apartment rentals, featuring a modern UI and smooth navigation.
 
 ---
 
-### 🎓 [Faculty Management System](https://github.com/AbramiucAndrei/faculty-management)
+### 🎓 [Faculty Management System](https://github.com/AbramiucAndrei/Python_Project_Layered_Arhitecture-lab-7-9)
 > **Tech Stack**: Python  
 A Python-based CRUD app for managing students, disciplines, and grades.  
 
 ---
 
-### 🏦 [Bank Account Management System](https://github.com/AbramiucAndrei/bank-system)
+### 🏦 [Bank Account Management System](https://github.com/AbramiucAndrei/C_Project-2nd_Semester)
 > **Tech Stack**: C  
 Features **user authentication**, account management, and dynamic memory allocation.  
 
