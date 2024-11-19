@@ -45,7 +45,7 @@ Features **user authentication**, account management, and dynamic memory allocat
 ## 🌟 **What I'm Currently Up To**
 
 - 🚀 Preparing for a **Software Engineering Internship**.  
-- 💻 Building more projects and contributing to open-source.  
+- 💻 Building more projects.  
 
 ---
 
