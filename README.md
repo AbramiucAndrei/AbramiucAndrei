@@ -7,9 +7,9 @@ Currently, I'm on a journey to grow my expertise in **software development**, **
 
 ## 🔧 **Technologies I Work With**
 
-- **Programming Languages**: C/C++ , Python, Dart, Java  
+- **Programming Languages**: C/C++, C# , Python, Dart, Java  
 - **Frameworks**: Flutter, Qt  
-- **Databases**: PostgreSQL, SQL Server  
+- **Databases**: PostgreSQL, Microsoft SQL Server  
 - **Concepts**: Object-Oriented Programming, Design Patterns  
 
 ---
